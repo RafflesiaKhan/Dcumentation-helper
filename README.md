@@ -58,6 +58,16 @@ streamlit run app.py
 
 The application will open in your browser at `http://localhost:8501`
 
+## 🎬 Demo
+
+Watch a short walkthrough of the Documentation Helper Agent in action on [YouTube](https://youtu.be/f8fk8_5voJ8).
+
+<video src="https://youtu.be/f8fk8_5voJ8" controls width="720" preload="metadata"></video>
+
+- Video: [Watch the demo](https://youtu.be/f8fk8_5voJ8)  
+
+- ![Demo](./Demo-dh.png)
+
 ## 📖 How to Use
 
 ### 1. Configure Your Project
